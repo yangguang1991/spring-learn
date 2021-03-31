@@ -11,6 +11,11 @@
     <modules>
         <module>ymdx-redis</module>
         <module>ymdx-springboot</module>
+        <module>example-commons</module>
+        <module>registry-service</module>
+        <module>example-a</module>
+        <module>gateway-master</module>
+        <module>example-b</module>
     </modules>
 
     <properties>
